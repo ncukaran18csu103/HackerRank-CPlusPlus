@@ -1,0 +1,19 @@
+#BASIC DATA TYPE
+
+#include<iostream>
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+
+    int a;long b;char c;
+    cin>>a>>b>>c;
+    cout<<a<<endl<<b<<endl<<c<<endl;
+    
+    float d;double e;
+    cin>>d>>e;
+    cout << std::fixed << std::setprecision(3) << d << '\n';
+    cout << std::fixed << std::setprecision(9) << e << '\n';
+
+    
+}
